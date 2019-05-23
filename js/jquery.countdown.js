@@ -5,10 +5,10 @@
    MIT (http://dev.jquery.com/browser/trunk/jquery/MIT-LICENSE.txt) licenses. 
    Please attribute the author if you use it. */
 
-/* Display a countdown timer.
+ Display a countdown timer.
    Attach it with options like:
    $('div selector').countdown(
-       {until: new Date(2009, 1 - 1, 1, 0, 0, 0), onExpiry: happyNewYear}); */
+       {until: new Date(2020, 1 - 1, 1, 0, 0, 0), onExpiry: happyNewYear}); 
 
 (function($) { // Hide scope, no $ conflict
 
