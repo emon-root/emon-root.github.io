@@ -8,9 +8,6 @@ jQuery(document).ready(function() {
 	                     "images/backgrounds/5.jpg"
 	                   , "images/backgrounds/6.jpg"
 	                   , "images/backgrounds/7.jpg"
-	                   , "images/backgrounds/5.jpg"
-	                   , "images/backgrounds/6.jpg"
-	                   , "images/backgrounds/7.jpg"
 	                  ], {duration: 3000, fade: 750});
 	
 
