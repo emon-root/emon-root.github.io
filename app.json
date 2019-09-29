@@ -1,0 +1,21 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+    "imran": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "name": "emoncse.github.io",
+  "scripts": {
+    "postdeploy": "bin/setup",
+    "pr-predestroy": "bin/teardown"
+  },
+  "stack": "heroku-18"
+}
